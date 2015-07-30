@@ -1,9 +1,9 @@
 # UI-UX-Designer-and-HTML5-CSS3-and-jQuery-Developer-Portfolio
 UI/UX Designer and HTML5 CSS3 and jQuery Developer Portfolio : www.bijudesigner.com
 
-6+ years of professional experience as UI/UX Designer and HTML5, CSS3 and jQuery Developer
+→ 6+ years of professional experience as UI/UX Designer and HTML5, CSS3 and jQuery Developer
 
-Extensive knowledge of current web standards, HTML5 and CSS3, Jquery along with developing front end with Cross browser compatibility.
+→ Extensive knowledge of current web standards, HTML5 and CSS3, Jquery along with developing front end with Cross browser compatibility.
 
 Having strong experience in responsive website design for Mobiles, Tablets and Desktops using CSS media queries.
 
