@@ -1,5 +1,6 @@
 # UI UX Designer and HTML5 CSS3 and jQuery Developer Portfolio : www.bijudesigner.com
- I am Bijeesh professional UI/UX Designer and<br><strong>HTML5, CSS3 jQuery Developer</strong>.I am passionate about creating new ideas and to be unique. 
+Hi All,
+I am Bijeesh professional UI/UX Designer and <strong>HTML5, CSS3 jQuery Developer</strong>.I am passionate about creating new ideas and to be unique. 
  
 → 6+ years of professional experience as UI/UX Designer and HTML5, CSS3 and jQuery Developer
 
