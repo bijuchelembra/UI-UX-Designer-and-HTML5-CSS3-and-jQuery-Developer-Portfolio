@@ -14,3 +14,5 @@ Working experience of GUI design for web and mobile applications
 Proficient with Sublime tex editor, Dream Weaver, Photoshop, Illustrator.
 
 Basic knowledge in WordPress, Joomla, Drupal, Good experience in working independently as well as part of a team.
+
+<img width="249" border="0" height="320" src="http://1.bp.blogspot.com/-uWBC6f1AeEE/VBWWb15JzsI/AAAAAAAAAoE/RvZpKbxqQ2w/s1600/biju-designer.png" alt="http://bijudesigner.com/">
